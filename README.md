@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Leeza + Hailie Collab
-=======
-# Hailie owns this now muahaha
->>>>>>> bb301f205b48fa5145b7bfd052e2a6c8d624e719
+
+
+
 a test repo for git / github lesson
 
 
