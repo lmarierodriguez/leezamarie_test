@@ -1,4 +1,4 @@
-# leezamarie_test
+# Leeza + Hailie Collab
 a test repo for git / github lesson
 
 
